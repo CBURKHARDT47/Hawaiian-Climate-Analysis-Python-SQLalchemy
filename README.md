@@ -1,4 +1,4 @@
-# Module 10 Challenge SQLAlchemy Challenge - Surfs Up! 
+# Module 10 Challenge SQLAlchemy Challenge - _Surfs Up!_
 
 ![download](https://github.com/CBURKHARDT47/sqlalchemy-challenge/assets/128064003/fdeade96-e6bd-48a5-a8ca-48102cb05f5a)
 
